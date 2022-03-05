@@ -1,4 +1,5 @@
 # MSI-GS66-Stealth-10UE-OC-Hackintosh
+# I have been creating this EFI for a long time, and I wanted to share who has the same model of MSI as I have
 | Specifications | Details |
 |:-: |:-: |
 | Processor | i7-10750H 6 Core  |
