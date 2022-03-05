@@ -28,7 +28,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 | Ethernet | Excellent|
 | Bluetooth | Good |
 | Thunderbolt 3 (JHL7540) | Very Good|
-| CPU Optimisation | Excellent |
+| CPU Optimization | Excellent |
 | Battery | Good |
 | Brightness & Sound Keys | Excellent |
 | Trackpad & Gestures| Excellent |
