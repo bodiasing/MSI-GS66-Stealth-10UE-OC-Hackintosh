@@ -10,24 +10,26 @@
 | Monitor | 15.6" Full HD 240Hz (LQ156M1JW03) |
 | Sound | Dynaudio Speakers 2W |
 | Network Card | Killer Gb LAN  (Intel AX210NGW) |
-| OS Version | Big Sur 11.6.4 |
+| OS Version | Big Sur 11.6.4 | OC 0.7.9
 
 # Current Functionality
 
 | Function | Performance |
 |:-: |:-: |
 | USB Patching | Excellent |
-| Sleep* | Excellent |
+| Sleep | Excellent |
 | Disable dGPU | Excellent |
 | Enable iGPU | Excellent |
+| 240hz Support | Excellent |
 | Audio | Excellent (VoodooHDA 299) (See how to install on bigsur) | 
-| WiFi** | Very Good with AirportItlwm.kext|
+| WiFi | Very Good with AirportItlwm.kext|
 | Ethernet | Excellent|
 | Bluetooth | Good |
-| Thunderbolt | Very Good|
+| Thunderbolt 3 (JHL7540) | Very Good|
 | CPU Optimisation | Excellent |
 | Battery | Good |
 | Brightness & Sound Keys | Excellent |
+| Trackpad & gestures| Excellent |
 | General stability | Excellent |
 
 #
