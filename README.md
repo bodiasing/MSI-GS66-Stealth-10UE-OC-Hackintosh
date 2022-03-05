@@ -4,7 +4,7 @@
 |:-: |:-: |
 | Processor | i7-10750H 6 Core  |
 | RAM | 16GB DDR4 |
-| SSD | NWME PM981a 1T(disabled with SSDT)+Samsung 970 Evo Plus 2TB |
+| SSD | NWME PM981a 1TB (disabled with SSDT) + Samsung 970 Evo Plus 2TB |
 | iGPU| Intel UHD Graphics 630 |
 | DGPU | Nvidia GeForce RTX 3060 (disabled with -wegnoegpu and SSDT-PTSWAK, SSDT-NoHybGfx) |
 | Monitor | 15.6" Full HD 240Hz (LQ156M1JW03) |
