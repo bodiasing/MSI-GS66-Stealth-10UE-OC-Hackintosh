@@ -29,7 +29,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 | CPU Optimisation | Excellent |
 | Battery | Good |
 | Brightness & Sound Keys | Excellent |
-| Trackpad & gestures| Excellent |
+| Trackpad & Gestures| Excellent |
 | General stability | Excellent |
 
 #
