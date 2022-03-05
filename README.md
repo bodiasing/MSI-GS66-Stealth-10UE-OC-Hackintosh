@@ -11,3 +11,4 @@ Monitor	15.6" Full HD 240Hz
 Sound	Dynaudio Speakers 2W
 Network Card	Killer 1650i (Intel AX201NGW)
 OS Version	Big Sur 11.4 (20F71) from 黑果小兵
+# MSI-GS66-Stealth-10UE-O
