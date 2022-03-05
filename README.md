@@ -23,7 +23,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 | Disable dGPU | Excellent |
 | Enable iGPU | Excellent |
 | 240hz Support | Excellent |
-| Audio | Excellent (VoodooHDA 299) (See how to install on bigsur), (on Applealc distortion, so I use voodooHDA) | 
+| Audio | Excellent (VoodooHDA 2.9.9) (See how to install on bigsur), (on Applealc distortion, so I use voodooHDA) | 
 | WiFi | Very Good |
 | Ethernet | Excellent|
 | Bluetooth | Good |
