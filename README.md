@@ -9,7 +9,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 | DGPU | Nvidia GeForce RTX 3060 (disabled with -wegnoegpu and SSDT-PTSWAK, SSDT-NoHybGfx) |
 | Monitor | 15.6" Full HD 240Hz (LQ156M1JW03) |
 | Sound | (ALC298) Dynaudio Speakers 2W |
-| Network Card | Killer Gb LAN  (Intel AX210NGW) |
+| Network Card | Killer E3100X Gb LAN  (Intel AX210NGW) |
 | OS Version | Big Sur 11.6.4 | OC 0.7.9
 
 # Current Functionality
@@ -34,7 +34,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 
 #
 #### To enter the Advanced BIOS
-Not necessarily, but I updated the BIOS to the latest version of E16V3IMS.111, and undervolted -110 mhw
+Not necessarily, but I updated the BIOS on the latest version of E16V3IMS.111, and undervolted -105 mv.
 While in the BIOS, press F2, Left ALT, Right SHIFT, Right CTRL
 Now you can verify that DVMT Pre-Allocated is set to 64MB and DVMT Total Gfx Mem is set to Max
 Also, and most important, set CFG Lock to Disabled, to enable native PM (also you would probably get a KP without it, if using current version of the EFI)
