@@ -10,7 +10,7 @@ I have been creating this EFI for a long time, and I wanted to share who has the
 | Monitor | 15.6" Full HD 240Hz (LQ156M1JW03) |
 | Sound | (ALC298) Dynaudio Speakers 2W |
 | Network Card | Killer E3100X Gb LAN  (Intel AX210NGW) |
-| OS Version | Big Sur 11.6.4 | OC 0.7.9
+| OS Version | Big Sur 11.6.4 OC 0.7.9 | 
 
 # Current Functionality
 
