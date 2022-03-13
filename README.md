@@ -54,6 +54,26 @@ While in the BIOS, press F2, Left ALT, Right SHIFT, Right CTRL
 Now you can verify that DVMT Pre-Allocated is set to 64MB and DVMT Total Gfx Mem is set to Max. Disabled Fast boot and Secure boot.
 Also, and most important, set CFG Lock to Disabled, to enable native PM (also you would probably get a KP without it, if using current version of the EFI)
 
+My bios settings:
+
+DVMT Pre-Allocated is set to 64MB
+
+DVMT Total Gfx Mem is set to Max Also
+
+CFG Lock to Disabled
+
+enable native ASPM
+
+Secure boot - disable
+
+Fastboot - disable
+
+Boot mode -uefi
+
+Undervolted -105 mv
+
+Turbo boost lock - x40 all six cores
+
 #### IMPORTANT
 
 Please generate a new SMBIOS (MacBookPro16,1 or MacBookPro16,4) as I deleted my serials. 
