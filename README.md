@@ -75,12 +75,19 @@ Undervolted -105 mv
 Turbo boost lock - x40 all six cores
 
 Memory timing:
+
 18
+
 19
+
 42
+
 19
+
 480
+
 Nmode - 1
+
 Command rate support cmds3
 
 #### IMPORTANT
