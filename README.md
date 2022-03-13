@@ -2,8 +2,11 @@
 
 # UPDATE "EFI UPDATE"
 Replaced voodoohda with applealc kext.
-But you need to install ComboJackfix (included in "EFI UPDATE"):
+
+But you need to install ComboJackfix (included in "EFI UPDATE").
+
 Your folder path must be, my folder path is specified in the terminal.
+
 In the terminal:
 1. cd ~/Downloads/ComboJackfix    
 2. sh install.sh      
