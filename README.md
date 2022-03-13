@@ -13,7 +13,7 @@ cd ~/Downloads/ComboJackfix
 
 sh install.sh      
 
-I have been creating this EFI for a long time, and I wanted to share who has the same model of MSI.
+# I have been creating this EFI for a long time, and I wanted to share who has the same model of MSI.
 
 | Specifications | Details |
 |:-: |:-: |
