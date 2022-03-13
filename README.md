@@ -61,15 +61,15 @@ DVMT Total Gfx Mem is set to Max Also
 
 CFG Lock to Disabled
 
-enable native ASPM
+Enable native ASPM
 
 Secure boot - disable
 
 Fastboot - disable
 
-Boot mode -uefi
+Boot mode - uefi
 
-Undervolted -105 mv
+Undervolted - -105 mv
 
 Turbo boost lock - x40 all six cores
 
