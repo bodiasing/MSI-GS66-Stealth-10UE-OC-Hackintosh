@@ -9,9 +9,8 @@ Your folder path must be, my folder path is specified in the terminal.
 
 Installation in the terminal:
 
-cd ~/Downloads/ComboJackfix    
-
-sh install.sh      
+    cd ~/Downloads/ComboJackfix    
+    sh install.sh      
 
 # I have been creating this EFI for a long time, and I wanted to share who has the same model of MSI.
 
