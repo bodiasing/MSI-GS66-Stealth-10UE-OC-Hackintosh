@@ -5,8 +5,8 @@ Replaced voodoohda with applealc kext.
 But you need to install ComboJackfix (included in "EFI UPDATE"):
 Your folder path must be, my folder path is specified in the terminal.
 In the terminal:
-cd ~/Downloads/ComboJackfix    
-sh install.sh      
+1. cd ~/Downloads/ComboJackfix    
+2. sh install.sh      
 
 
 I have been creating this EFI for a long time, and I wanted to share who has the same model of MSI.
