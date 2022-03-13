@@ -51,7 +51,7 @@ sh install.sh
 #### To enter the Advanced BIOS
 Not necessarily, but I updated the BIOS on the latest version of E16V3IMS.111, and undervolted -105 mv.
 While in the BIOS, press F2, Left ALT, Right SHIFT, Right CTRL
-Now you can verify that DVMT Pre-Allocated is set to 64MB and DVMT Total Gfx Mem is set to Max
+Now you can verify that DVMT Pre-Allocated is set to 64MB and DVMT Total Gfx Mem is set to Max. Disabled Fast boot and Secure boot.
 Also, and most important, set CFG Lock to Disabled, to enable native PM (also you would probably get a KP without it, if using current version of the EFI)
 
 #### IMPORTANT
