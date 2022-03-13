@@ -74,6 +74,15 @@ Undervolted -105 mv
 
 Turbo boost lock - x40 all six cores
 
+Memory timing:
+18
+19
+42
+19
+480
+Nmode - 1
+Command rate support cmds3
+
 #### IMPORTANT
 
 Please generate a new SMBIOS (MacBookPro16,1 or MacBookPro16,4) as I deleted my serials. 
