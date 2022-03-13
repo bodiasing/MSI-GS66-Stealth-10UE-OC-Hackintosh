@@ -1,7 +1,7 @@
 # MSI-GS66-Stealth-10UE-OC-Hackintosh
 
 # UPDATE "EFI UPDATE"
-Replaced voodoohda.kext with applealc kext.
+Replaced voodoohda.kext with applealc.kext.
 
 But you need to install ComboJackfix (included in "EFI UPDATE").
 
