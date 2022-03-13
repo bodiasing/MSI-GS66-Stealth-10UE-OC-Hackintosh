@@ -5,7 +5,6 @@ Replaced voodoohda with applealc kext.
 But you need to install ComboJackfix (included in "EFI UPDATE"):
 Your folder path must be, my folder path is specified in the terminal.
 In the terminal:
-|:-: |:-: |
 cd ~/Downloads/ComboJackfix    
 sh install.sh      
 
