@@ -35,7 +35,7 @@ Installation in the terminal:
 | Disable dGPU | Excellent |
 | Enable iGPU | Excellent |
 | 240hz Support | Excellent |
-| Audio | Excellent (update Applealc.kext, layout id - 72 and ComboJackfix) | 
+| Audio ALC 298 | Excellent (update Applealc.kext, layout id - 72 and ComboJackfix) | 
 | WiFi | Very Good |
 | Ethernet | Excellent|
 | Bluetooth | Good |
