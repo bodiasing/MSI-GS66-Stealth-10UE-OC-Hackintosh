@@ -39,7 +39,7 @@ Installation in the terminal:
 | WiFi | Very Good |
 | Ethernet | Excellent|
 | Bluetooth | Good |
-| Thunderbolt 3 (JHL7540) | Very Good|
+| Thunderbolt 3 (JHL7540) | Not tested|
 | CPU Optimization | Excellent |
 | Battery | Good |
 | Brightness & Sound Keys | Excellent |
